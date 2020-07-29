@@ -1,1 +1,2 @@
-Hello welcome to Git
+Hello welcome to Git.
+Hello welcome to New Git.
